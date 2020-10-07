@@ -1,0 +1,24 @@
+Heap/Stack diagrams
+
+		Heap
+
+	Obj R
+	num		1
+	den		2
+	
+	obj result		garbage
+	num		1		garbage
+	den		1		garbage
+	
+	obj result		garbage
+	num		1		garbage
+	den		2		garbage
+	
+	obj result		garbage
+	num		1		garbage
+	den		4		garbage
+	
+	obj result
+	num		1
+	den		8
+	
